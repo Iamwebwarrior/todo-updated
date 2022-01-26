@@ -47,7 +47,7 @@ step 5: click the link belove<br/>
 
 ```
 <iframe width="727" height="409" src="https://www.youtube.com/embed/DP7f3NJdHf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[![Watch the video](https://img.youtube.com/vi/DP7f3NJdHf0/maxresdefault.jpg)](https://www.youtube.com/embed/DP7f3NJdHf0)
+[![Watch the video](https://img.youtube.com/vi/DP7f3NJdHf0/maxresdefault.jpg)](https://youtu.be/DP7f3NJdHf0)
 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 <img src="./register.PNG">
