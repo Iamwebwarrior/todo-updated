@@ -46,11 +46,7 @@ step 5: click the link belove<br/>
 
 
 ```
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/DP7f3NJdHf0" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
+<iframe width="727" height="409" src="https://www.youtube.com/embed/DP7f3NJdHf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="./register.PNG">
 <img src="./login.PNG">
 <img src="./todolist.PNG">
