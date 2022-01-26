@@ -43,13 +43,14 @@ step 5: click the link belove<br/>
 
 ## SCREENSHOTS
 ==================
+
+
+```
 <video width="320" height="240" controls>
   <source src="https://youtu.be/DP7f3NJdHf0" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
   Your browser does not support the video tag.
 </video>
-
-```
 <img src="./register.PNG">
 <img src="./login.PNG">
 <img src="./todolist.PNG">
